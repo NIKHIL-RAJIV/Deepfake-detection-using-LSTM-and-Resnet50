@@ -14,7 +14,7 @@ The model is structured to analyze both visual inconsistencies and temporal erro
 
 ### Architecture Diagram
 
-![System Architecture: Resnet50-LSTM Deepfake Detector](Image/Deepfake_System Architecture.png)
+![](Image/Deepfake_System Architecture.png)
 
 ---
 
